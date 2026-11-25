@@ -1,0 +1,20 @@
+name: Question ou problème
+description: Une question, un bug, une idée
+title: "[Question] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Ce message est public** : pas d'adresse e-mail, pas de mot de passe, pas d'adresse IP de serveur.
+  - type: input
+    id: version
+    attributes:
+      label: Version du serveur et du plugin
+      placeholder: "Paper 26.3, SnkPass 1.0.0"
+  - type: textarea
+    id: message
+    attributes:
+      label: Ton message
+    validations:
+      required: true

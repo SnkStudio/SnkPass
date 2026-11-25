@@ -1,0 +1,26 @@
+name: Je veux le plugin
+description: Demander le prix ou acheter SnkPass
+title: "[Achat] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci pour ton intérêt ! **Ce message est public** : pas d'adresse e-mail, pas de mot de passe, pas d'information de paiement.
+  - type: input
+    id: version
+    attributes:
+      label: Version de ton serveur
+      placeholder: "Paper 1.21.11"
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Ton pseudo Discord (facultatif)
+      description: Pour te répondre en privé. Il sera visible par tous.
+  - type: textarea
+    id: message
+    attributes:
+      label: Ton message
+      placeholder: "Nombre de joueurs, autres plugins, questions..."
