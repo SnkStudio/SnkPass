@@ -59,6 +59,8 @@ Elle s'achète avec **l'argent du jeu**. Un mode **« cosmétique seulement »**
 
 **Le pass marche aussi tout seul :** si un plugin n'est pas installé, sa récompense est remplacée et ses missions ne sont pas tirées.
 
+**Avec [SnkInterface](https://github.com/SnkStudio/SnkInterface) :** les titres et les couleurs gagnés s'affichent dans le chat, à côté du grade.
+
 ---
 
 ## 📸 Captures
