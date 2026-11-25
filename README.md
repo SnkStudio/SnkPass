@@ -49,6 +49,7 @@ Elle s'achète avec **l'argent du jeu**. Un mode **« cosmétique seulement »**
 |---|---|---|
 | Argent, objets, niveaux | 500 $, 6 diamants, 5 niveaux | — |
 | Titre, couleur, particules | « Légende » | — |
+| Cosmétiques 3D | Bébé dragon, couronne royale | [SnkCosmetiques](https://github.com/SnkStudio/SnkCosmetiques) |
 | Commande | Tout ce que tu veux | — |
 | Outils en gemme | Pioche en rubis | [SnkGemmes](https://github.com/SnkStudio/SnkGemmes) |
 | XP de métier | 300 XP | [SnkMetiers](https://github.com/SnkStudio/SnkMetiers) |
