@@ -61,6 +61,8 @@ Elle s'achète avec **l'argent du jeu**. Un mode **« cosmétique seulement »**
 
 **Avec [SnkInterface](https://github.com/SnkStudio/SnkInterface) :** les titres et les couleurs gagnés s'affichent dans le chat, à côté du grade.
 
+**Avec [SnkPNJ](https://github.com/SnkStudio/SnkPNJ) :** un personnage peut ouvrir le pass.
+
 ---
 
 ## 📸 Captures
