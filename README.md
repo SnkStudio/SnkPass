@@ -63,6 +63,8 @@ Elle s'achète avec **l'argent du jeu**. Un mode **« cosmétique seulement »**
 
 **Avec [SnkPNJ](https://github.com/SnkStudio/SnkPNJ) :** un personnage peut ouvrir le pass.
 
+**Avec [SnkQuetes](https://github.com/SnkStudio/SnkQuetes) :** des quêtes et des histoires en plus des missions du pass.
+
 ---
 
 ## 📸 Captures
